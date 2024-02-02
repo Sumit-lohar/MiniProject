@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+
+body {
+	background: url(img/16.jpeg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.card {
+	width: 450px;
+	left: 35%;
+	margin-top: 50px;
+	background: linear-gradient(to right, #A4D1E3, #7EBCD1);
+	border: none !important;
+}
+
+.form-control {
+	background: linear-gradient(to right, #A4D1E3, #7EBCD1);
+	border: none !important;
+}
+
+.form-control:focus {
+	box-shadow: none !important;
+}
+
+.text-flid {
+	border-bottom: 1px solid black;
+}
+
+.text a {
+	color: black;
+}
+
+.img-text {
+	margin-left: 45%;
+	margin-top: 10px;
+}
+
+#btn{
+	margin-left: 45%;
+}
+
+.img-text h2,p{
+	margin-top: 30px;
+}
